@@ -28,3 +28,5 @@ tmp/*
 Gemfile.lock
 .bundle
 log/*
+config/application.rb
+Gemfile
